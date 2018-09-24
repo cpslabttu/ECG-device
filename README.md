@@ -3,7 +3,7 @@ Created by: Dr. B. I. Morshed, Assoc. Prof., EECE, University of Memphis, Memphi
 
 If using this project files, please cite:
 
-B. I. Morshed, "Very Low-power Inductively Coupled Wearable ECG Sensor Design with Inkjet Printed Dry Electrodes", National Radio Science Meeting, Boulder, CO, 2019.
+B. I. Morshed, "Ultra Low-power Inductively Coupled Wearable ECG Sensor Design with Inkjet Printed Dry Electrodes", National Radio Science Meeting, Boulder, CO, 2019.
 
 B. I. Morshed, B. Harmon, M. S. Zaman, M. J. Rahman, S. Afroz, and M. Rahman, "Inkjet Printed Fully-passive Body-worn Wireless Sensors for Smart and Connected Community (SCC)", J. Low Power Electron. Appl., vol. 7, no. 4, article 26, pp. 1-21, Nov. 2017.
 

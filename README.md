@@ -1,4 +1,4 @@
-# ECG-device
+# ECG-device-TypeC
 Created by: Dr. B. I. Morshed, Assoc. Prof., EECE, University of Memphis, Memphis TN USA.
 
 If using this project files, please cite:
